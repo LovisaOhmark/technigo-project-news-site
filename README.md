@@ -1,10 +1,8 @@
-# News Site
+# News Site on Exotics fruits
 
-Replace this readme with your own information about the project. You can include things like:
+- Assignment within the self paced Web development bootcamp by Technigo to build a news site
+- I wanted to make something fun and something about a topic that was on my mind a lot atm: Exotic fruits !
+- The goal before starting the project was to have a clear plan with what to be included and a sketch but also to test and play around to learn more
+- If I had more time I would build a site that allowed customers to order exotic fruit
 
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
-
-## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+## Link to the deployed project is coming
