@@ -5,4 +5,5 @@
 - The goal before starting the project was to have a clear plan with what to be included and a sketch but also to test and play around to learn more
 - If I had more time I would build a site that allowed customers to order exotic fruit
 
-
+View it:
+https://thunderous-meringue-a36850.netlify.app
